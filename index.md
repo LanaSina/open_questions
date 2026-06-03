@@ -1,11 +1,11 @@
 # Lana's Open Questions
 
-https://lanasina.github.io/open_questions/
+Website version: [https://lanasina.github.io/open_questions/](https://lanasina.github.io/open_questions/)
 
 A list of research questions that either have no answers, or which consensus answers I do not find convincing.
 If the question was formulated by someone else, their name is next to the question.
 
-Discussions here: https://github.com/LanaSina/open_questions/discussions
+Discuss here: [https://github.com/LanaSina/open_questions/discussions](https://github.com/LanaSina/open_questions/discussions)
 
 1. Why do the rules in simulations demonstrating 1st order emergence (eg individuas -> swarm) not also cause second order emrgence (swarm -> swarms of swarms, or cell -> multicellular organism -> society)?
 
