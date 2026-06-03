@@ -1,5 +1,7 @@
 # Lana's Open Questions
 
+https://lanasina.github.io/open_questions/
+
 A list of research questions that either have no answers, or which consensus answers I do not find convincing.
 If the question was formulated by someone else, their name is next to the question.
 
