@@ -25,7 +25,7 @@ Discuss here: [https://github.com/LanaSina/open_questions/discussions](https://g
 
 9. Domestication is a way to increase predictability over environmental conditions. Is the endpoint of domestication a fully predictable environment with at its core a domesticating species with arrested evolution syndrome?
 
-10. Does the evolution from mingled action/computation systems (eg: RNA world, pre-jacquard looms) to systems with separated action and computation (eg: RNA-DNA separation, jacquard loom, the evolution of thought?) follow predictable rules? 
+10. Does the evolution from mingled action/computation systems (eg: RNA world, pre-jacquard looms) to systems with separated action and computation (eg: RNA-DNA separation, jacquard loom, the evolution of thought, hardware/software distinctions...) follow predictable rules? 
 
 12. Is specialization = complexity?
 
