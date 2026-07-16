@@ -27,7 +27,7 @@ Discuss here: [https://github.com/LanaSina/open_questions/discussions](https://g
 
 10. Does the evolution from mingled action/computation systems (eg: RNA world, pre-jacquard looms) to systems with separated action and computation (eg: RNA-DNA separation, jacquard loom, the evolution of thought, hardware/software distinctions...) follow predictable rules?
 
-11. If separating data storage from computation is generally good, and [DNA is responsible for computation in a cell](https://shapiro.bsd.uchicago.edu/Shapiro2006.GenomeInformatics.pdf), what has the role of data storage? Are the two not separated? Will they evolve to be separated?
+11. If separating data storage from computation is generally good, and [DNA is responsible for computation in a cell](https://shapiro.bsd.uchicago.edu/Shapiro2006.GenomeInformatics.pdf), what has the role of data storage? Or if DNA is the storage, what has the role of doing the computation? Are the two not separated? Will they evolve to be separated?
 
 12. Is specialization = complexity?
 
