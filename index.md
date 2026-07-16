@@ -22,3 +22,9 @@ Discuss here: [https://github.com/LanaSina/open_questions/discussions](https://g
 7. How much engineering in a simulation is overengineering? When does the complexity of the setup exceed the complexity of the outputs?
 
 8. Domestication is a way to increase predictability over environmental conditions. Is the endpoint of domestication a fully predictable environment with at its core a domesticating species with arrested evolution syndrome?
+
+9. Does the evolution from mingled action/computation (eg: RNA world, pre-jacquard looms) systems to separated action and computation (eg: RNA-DNA separation, jacquard loom, the evolution of thought?) systems follow predictable rules? 
+
+10. Is specialization = complexity?
+
+11. The less power you have on your environment the more you have to change yourself (adapt) to survive that environment. Corollary: an entity with complete power over the environment does not evolve. What does that mean for designing open ended simulations?
