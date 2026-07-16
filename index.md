@@ -7,7 +7,7 @@ If the question was formulated by someone else, their name is next to the questi
 
 Discuss here: [https://github.com/LanaSina/open_questions/discussions](https://github.com/LanaSina/open_questions/discussions)
 
-1. Why do the rules in simulations demonstrating 1st order emergence (eg individuas -> swarm) not also cause second order emrgence (swarm -> swarms of swarms, or cell -> multicellular organism -> society)?
+1. Why do the rules in simulations demonstrating 1st order emergence (eg individuas -> swarm) not also cause second order emergence (swarm -> swarms of swarms, or cell -> multicellular organism -> society)?
 
 2. What is the equivalent of Turing Completeness for simulations of life? (How do you know a simulation has the potential to simulate, eg, a cell?) Is there a list of elements such that, if they can exsit in the simulation, it means that the simulation can simulate life? 
 
